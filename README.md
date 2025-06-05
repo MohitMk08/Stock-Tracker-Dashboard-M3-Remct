@@ -1,4 +1,4 @@
-# Stock-Tracker-Dashboard-M3-Remct
+# Stock-Tracker-Dashboard-M4-Remct
 
 This the Stock Tracker Dashboard Ui
 
@@ -12,3 +12,10 @@ In this we are apply api fetch method to fetch data and integrate to charts for 
 Please call load data visely once api limit reached there will no data showing.
 
 for use convenience I have add alert msg there once api limit reached.
+
+Here is some snapshots
+
+## 📸 Screenshots
+
+![Dashboard](assets/Stock-Tracker-06-04-2025_11_14_PM.png);
+![Dropdown](assets/Stock-Tracker-dropdown.png);
